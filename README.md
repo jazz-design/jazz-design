@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jazz-design
-- 👀 I’m interested in UI/UX Design, HTML5, Bootstrap, Angular
-- 🌱 I’m currently learning Angular JS
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in UI/UX Design, AdobeXD, FIGMA, HTML5, Bootstrap, Angular
+- 🌱 I’m currently learning Figma, Angular JS
+- 💞️ I’m looking to collaborate on UI/UX Design
 - 📫 How to reach me .. drop msg on jasvinder.singh@live.com
 
 <!---
